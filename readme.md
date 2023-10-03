@@ -2,12 +2,12 @@
 
 ### Linkeding Learning Path: Getting Started with Python
 - [Getting Started with Python](https://www.linkedin.com/learning/paths/getting-started-with-python)
-- 15h 20m of content
-- 7 items of learning content
-
+- **15h 20m** of content, **7 items** of learning content
+- **+ 3h 5m** of content, 1 **item** of learning content
+- **Total de 18h 20m**
 
 ### Content Path
-- Course: Learning Python, 3h 5m, By: Joe Marini
+- [Course: Learning Python, 3h 5m, By: Joe Marini](https://www.linkedin.com/learning/learning-python-14393370)
 - Course: Python Essential Training, 4h 22m, By: Ryan Mitchell
 - Course: Python Quick Start (2019), 1h 36m, By: Lavanya Vijayan and Madecraft
 - Course: Python Object-Oriented Programming, 1h 36m, By: Joe Marini
