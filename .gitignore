@@ -213,9 +213,11 @@ pyrightconfig.json
 # Text files
 *.txt
 *.bak
+!scores.txt
 
 # Zip files
 *.zip
+!archive-files.zip
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,linux
 
