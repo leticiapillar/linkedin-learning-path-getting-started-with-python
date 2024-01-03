@@ -15,7 +15,7 @@
 - [Course: Learning the Python 3 Standard Library, 2h 9m, By: Kathryn Hodge](https://www.linkedin.com/learning/learning-the-python-3-standard-library)
 - [Course: Programming Foundations: Data Structures, 2h 20m, By: Kathryn Hodge](https://www.linkedin.com/learning/programming-foundations-data-structures-22859292)
 - [Course: Python Projects: Create an Interactive Quiz Application, 1h 29m, By: Joe Marini](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application)
-    - [Github Project](https://github.com/leticiapillar/python-project-build-a-quiz-application)
+- [Github Project](https://github.com/leticiapillar/python-project-build-a-quiz-application)
 
 
 #### Linkedin Coures
